@@ -37,9 +37,9 @@ Este projeto é um sistema bancário simples desenvolvido em Java. O sistema per
 
 ```bash
 1. Clone o projeto para o seu computador.
-2. Abra o projeto na sua IDE Java.
+2. Abra o projeto na sua IDE de preferência.
 3. Compile e execute a classe Main.
-4. Siga as instruções na tela para usar o sistema.
+4. Siga as instruções no console para usar o sistema.
 ```
 ## Observações
 
